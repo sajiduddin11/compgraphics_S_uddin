@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GRaphics assignment\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0284FDEA-72C8-347A-8609-FB069E9F6C5E}|Computer_Graphics_Coursework.vcxproj|C:\\2ndYearGraphics\\source\\coursework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0284FDEA-72C8-347A-8609-FB069E9F6C5E}|Computer_Graphics_Coursework.vcxproj|C:\\2ndYearGraphics\\common\\camera.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0284FDEA-72C8-347A-8609-FB069E9F6C5E}|Computer_Graphics_Coursework.vcxproj|C:\\2ndYearGraphics\\common\\texture.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0284FDEA-72C8-347A-8609-FB069E9F6C5E}|Computer_Graphics_Coursework.vcxproj|C:\\2ndYearGraphics\\common\\camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0284FDEA-72C8-347A-8609-FB069E9F6C5E}|Computer_Graphics_Coursework.vcxproj|C:\\2ndYearGraphics\\common\\maths.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0284FDEA-72C8-347A-8609-FB069E9F6C5E}|Computer_Graphics_Coursework.vcxproj|C:\\2ndYearGraphics\\common\\shader.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0284FDEA-72C8-347A-8609-FB069E9F6C5E}|Computer_Graphics_Coursework.vcxproj|C:\\2ndYearGraphics\\common\\model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0284FDEA-72C8-347A-8609-FB069E9F6C5E}|Computer_Graphics_Coursework.vcxproj|C:\\2ndYearGraphics\\common\\light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0284FDEA-72C8-347A-8609-FB069E9F6C5E}|Computer_Graphics_Coursework.vcxproj|C:\\2ndYearGraphics\\source\\vertexShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0284FDEA-72C8-347A-8609-FB069E9F6C5E}|Computer_Graphics_Coursework.vcxproj|C:\\2ndYearGraphics\\source\\fragmentShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "camera.hpp",
+              "DocumentMoniker": "C:\\2ndYearGraphics\\common\\camera.hpp",
+              "RelativeDocumentMoniker": "..\\..\\2ndYearGraphics\\common\\camera.hpp",
+              "ToolTip": "C:\\2ndYearGraphics\\common\\camera.hpp",
+              "RelativeToolTip": "..\\..\\2ndYearGraphics\\common\\camera.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T03:11:15.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "texture.hpp",
+              "DocumentMoniker": "C:\\2ndYearGraphics\\common\\texture.hpp",
+              "RelativeDocumentMoniker": "..\\..\\2ndYearGraphics\\common\\texture.hpp",
+              "ToolTip": "C:\\2ndYearGraphics\\common\\texture.hpp",
+              "RelativeToolTip": "..\\..\\2ndYearGraphics\\common\\texture.hpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T01:24:00.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "coursework.cpp",
+              "DocumentMoniker": "C:\\2ndYearGraphics\\source\\coursework.cpp",
+              "RelativeDocumentMoniker": "..\\..\\2ndYearGraphics\\source\\coursework.cpp",
+              "ToolTip": "C:\\2ndYearGraphics\\source\\coursework.cpp",
+              "RelativeToolTip": "..\\..\\2ndYearGraphics\\source\\coursework.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T02:58:53.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "camera.cpp",
+              "DocumentMoniker": "C:\\2ndYearGraphics\\common\\camera.cpp",
+              "RelativeDocumentMoniker": "..\\..\\2ndYearGraphics\\common\\camera.cpp",
+              "ToolTip": "C:\\2ndYearGraphics\\common\\camera.cpp",
+              "RelativeToolTip": "..\\..\\2ndYearGraphics\\common\\camera.cpp",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T21:23:59.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "maths.cpp",
+              "DocumentMoniker": "C:\\2ndYearGraphics\\common\\maths.cpp",
+              "RelativeDocumentMoniker": "..\\..\\2ndYearGraphics\\common\\maths.cpp",
+              "ToolTip": "C:\\2ndYearGraphics\\common\\maths.cpp",
+              "RelativeToolTip": "..\\..\\2ndYearGraphics\\common\\maths.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T21:24:49.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "shader.hpp",
+              "DocumentMoniker": "C:\\2ndYearGraphics\\common\\shader.hpp",
+              "RelativeDocumentMoniker": "..\\..\\2ndYearGraphics\\common\\shader.hpp",
+              "ToolTip": "C:\\2ndYearGraphics\\common\\shader.hpp",
+              "RelativeToolTip": "..\\..\\2ndYearGraphics\\common\\shader.hpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-09T21:39:38.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "model.cpp",
+              "DocumentMoniker": "C:\\2ndYearGraphics\\common\\model.cpp",
+              "RelativeDocumentMoniker": "..\\..\\2ndYearGraphics\\common\\model.cpp",
+              "ToolTip": "C:\\2ndYearGraphics\\common\\model.cpp",
+              "RelativeToolTip": "..\\..\\2ndYearGraphics\\common\\model.cpp",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAQwP8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T21:24:53.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "light.cpp",
+              "DocumentMoniker": "C:\\2ndYearGraphics\\common\\light.cpp",
+              "RelativeDocumentMoniker": "..\\..\\2ndYearGraphics\\common\\light.cpp",
+              "ToolTip": "C:\\2ndYearGraphics\\common\\light.cpp",
+              "RelativeToolTip": "..\\..\\2ndYearGraphics\\common\\light.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T21:24:48.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "vertexShader.glsl",
+              "DocumentMoniker": "C:\\2ndYearGraphics\\source\\vertexShader.glsl",
+              "RelativeDocumentMoniker": "..\\..\\2ndYearGraphics\\source\\vertexShader.glsl",
+              "ToolTip": "C:\\2ndYearGraphics\\source\\vertexShader.glsl",
+              "RelativeToolTip": "..\\..\\2ndYearGraphics\\source\\vertexShader.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-13T00:52:10.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fragmentShader.glsl",
+              "DocumentMoniker": "C:\\2ndYearGraphics\\source\\fragmentShader.glsl",
+              "RelativeDocumentMoniker": "..\\..\\2ndYearGraphics\\source\\fragmentShader.glsl",
+              "ToolTip": "C:\\2ndYearGraphics\\source\\fragmentShader.glsl",
+              "RelativeToolTip": "..\\..\\2ndYearGraphics\\source\\fragmentShader.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-13T00:51:43.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
